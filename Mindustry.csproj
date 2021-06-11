@@ -1702,7 +1702,6 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="ikvm.exports" />
-    <EmbeddedResource Include="Mindustry.jar" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
